@@ -1,3 +1,2 @@
 # personal_website
-
-https://amankumar-eight.vercel.app/
+https://amankumar-six.vercel.app/
