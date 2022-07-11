@@ -488,7 +488,6 @@ p {
   justify-content: space-between;
   width: 100vw;
   position: absolute;
-  border: 1px solid black;
 }
 
 .about .left {
